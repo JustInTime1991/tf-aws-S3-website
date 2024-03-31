@@ -1,1 +1,1 @@
-bucket_name = "GraphicsUploadV2.com"
+bucket_name = "graphicsuploadv2.com"
